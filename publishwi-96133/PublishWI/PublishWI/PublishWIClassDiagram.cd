@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AddWIToCalendar.WorkItem">
+    <Position X="0.5" Y="2.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>CAACEAAAAAAgAMAAAAAAQAACAAAAAAAAAAABABgAAAA=</HashCode>
+      <FileName>SM\WorkItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddWIToCalendar.WSSCalendarEvent">
+    <Position X="8" Y="3" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AABCAAAAAAAgAMAAAFIAAAAEIAAgAAAAAAAAAAAACAA=</HashCode>
+      <FileName>WSS\WSSCalendarEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddWIToCalendar.WSSHandler">
+    <Position X="8.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAQCAAAAAAAAQIAAAAAAA=</HashCode>
+      <FileName>WSS\WSSHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddWIToCalendar.SMHandler">
+    <Position X="0.5" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAABAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SM\SMHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

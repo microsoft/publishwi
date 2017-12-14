@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PublishWI", "PublishWI\PublishWI.csproj", "{B82BE996-BDD6-4969-AEBA-3DB18B6F1B5C}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs04.codeplex.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = PublishWI\\PublishWI.csproj
+		SccProjectName1 = PublishWI
+		SccLocalPath1 = PublishWI
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Any Platform|Any CPU = Any Platform|Any CPU
+		Any Platform|x64 = Any Platform|x64
+		Any Platform|x86 = Any Platform|x86
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B82BE996-BDD6-4969-AEBA-3DB18B6F1B5C}.Any Platform|Any CPU.ActiveCfg = Any Platform|Any CPU
+		{B82BE996-BDD6-4969-AEBA-3DB18B6F1B5C}.Any Platform|Any CPU.Build.0 = Any Platform|Any CPU
+		{B82BE996-BDD6-4969-AEBA-3DB18B6F1B5C}.Any Platform|x64.ActiveCfg = Any Platform|Any CPU
+		{B82BE996-BDD6-4969-AEBA-3DB18B6F1B5C}.Any Platform|x64.Build.0 = Any Platform|Any CPU
+		{B82BE996-BDD6-4969-AEBA-3DB18B6F1B5C}.Any Platform|x86.ActiveCfg = Any Platform|x86
+		{B82BE996-BDD6-4969-AEBA-3DB18B6F1B5C}.Any Platform|x86.Build.0 = Any Platform|x86
+		{B82BE996-BDD6-4969-AEBA-3DB18B6F1B5C}.Debug|Any CPU.ActiveCfg = Any Platform|Any CPU
+		{B82BE996-BDD6-4969-AEBA-3DB18B6F1B5C}.Debug|x64.ActiveCfg = Any Platform|x64
+		{B82BE996-BDD6-4969-AEBA-3DB18B6F1B5C}.Debug|x64.Build.0 = Any Platform|x64
+		{B82BE996-BDD6-4969-AEBA-3DB18B6F1B5C}.Debug|x86.ActiveCfg = Any Platform|x64
+		{B82BE996-BDD6-4969-AEBA-3DB18B6F1B5C}.Release|Any CPU.ActiveCfg = Any Platform|Any CPU
+		{B82BE996-BDD6-4969-AEBA-3DB18B6F1B5C}.Release|x64.ActiveCfg = Any Platform|x64
+		{B82BE996-BDD6-4969-AEBA-3DB18B6F1B5C}.Release|x64.Build.0 = Any Platform|x64
+		{B82BE996-BDD6-4969-AEBA-3DB18B6F1B5C}.Release|x86.ActiveCfg = Any Platform|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
